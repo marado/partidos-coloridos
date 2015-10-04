@@ -1,4 +1,4 @@
-Este simples repositório tem como objectivo disponibilizar de forma simples uma lista de partidos políticos Portugueses, e a cor correspondente a esse partido.
+Este repositório tem como objectivo disponibilizar de forma simples e maleável uma lista de partidos políticos Portugueses, e a cor correspondente a esse partido.
 Esta informação poderá ser útil para quem quiser fazer sites web, infografias, etc..
 
 # Fontes
