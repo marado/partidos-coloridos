@@ -4,7 +4,7 @@ Esta informação poderá ser útil para quem quiser fazer sites web, infografia
 # Fontes
 
 * O script `partidos.sh` gera uma lista de todos os partidos que alguma vez já concorreram a eleições legislativas em Portugal, e que pode ser vista em `todos-os-partidos.txt`. Esta lista é gerada a partir da [Central de Dados](http://centraldedados.pt/).
-* Como repararão, ainda nem todos os partidos têm presença na lista de "cores de partidos", e que pode ser vista em formato CSV em `partidos-coloridos.csv`. Isso acontece porque as "cores iniciais" são informação retirada do site [Quarenta Anos de Abstenção](http://tmmv.github.io/abstencao/).
+* Como repararão, ainda nem todos os partidos têm presença na lista de "cores de partidos", e que pode ser vista em formato CSV em `partidos-coloridos.csv`. Isso acontece porque as "cores iniciais" foram informação retirada do site [Quarenta Anos de Abstenção](http://tmmv.github.io/abstencao/), e a lista tem vindo a ser complementada com novas fontes.
 
 # Dados
 
