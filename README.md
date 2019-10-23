@@ -17,7 +17,7 @@ Formatos disponíveis de momento:
 
 # Contribuições
 
-Contibuições e sugestões são aceites e bem vindas: é só abrir um issue ou fazer um pull request!
+Contribuições e sugestões são aceites e bem vindas: é só abrir um issue ou fazer um pull request!
 
 Procuram-se particularmente contribuições de:
 * mais informação das cores de cada partido
